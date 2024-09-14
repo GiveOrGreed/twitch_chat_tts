@@ -1,0 +1,7 @@
+Include/
+Lib/
+Scripts/
+unicode_characters/
+wordlist/
+.env
+pyvenv.cfg
